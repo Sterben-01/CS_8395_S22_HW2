@@ -10,6 +10,8 @@ Download all project then click play button
 # Tips
 I already packaged up two models with pose file in 01(1).unitypackage. You can import and use it directly.
 
+# Deficient
+This code works not really well especially your book cover is not clearly enough or color/texture/content not really obvious. Also, the virtual button has a significant issue. It is really hard to use and hard to interacive. At the same time, it does not has a proper sensitivity.
 
 # Externel sources used
 ## Model:
